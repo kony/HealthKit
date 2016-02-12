@@ -9,3 +9,4 @@ This application will showcase KonyJSBindings feature in a way that user can use
 **Mobile**
  * iPhone
  
+**Supported KonyStudio Version:** 7.0
