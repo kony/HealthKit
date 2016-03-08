@@ -1,0 +1,15 @@
+{
+    "p2kwiet140781533139_frmHome_postshow_seq0": {
+        "id": "p2kwiet140781533139_frmHome_postshow_seq0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "name": "eventobject",
+            "value": "eventobject"
+        }],
+        "actions": [{
+            "id": "expression_postshow_298501407815333853",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "nutrition.destroy();\n results.destroy();\n vitalsigns.destroy();\n characteristics.destroy();"
+        }]
+    }
+}

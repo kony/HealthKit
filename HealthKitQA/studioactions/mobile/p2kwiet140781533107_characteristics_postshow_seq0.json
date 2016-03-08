@@ -1,0 +1,16 @@
+{
+    "p2kwiet140781533107_characteristics_postshow_seq0": {
+        "id": "p2kwiet140781533107_characteristics_postshow_seq0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "name": "eventobject",
+            "value": "eventobject"
+        }],
+        "actions": [{
+            "id": "customcode_postshow_46121407815334768",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "initAuthCharacteristics",
+            "display": "initAuthCharacteristics"
+        }]
+    }
+}

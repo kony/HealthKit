@@ -1,0 +1,26 @@
+{
+    "p2kwiet140781533139_segHealthMenu_onRowClick_seq0": {
+        "id": "p2kwiet140781533139_segHealthMenu_onRowClick_seq0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "name": "eventobject",
+            "value": "eventobject"
+        }, {
+            "name": "sectionNumber",
+            "value": "sectionNumber"
+        }, {
+            "name": "rowNumber",
+            "value": "rowNumber"
+        }],
+        "actions": [{
+            "id": "customcode_onRowClick_150641407815331378",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "onRowClick_FrmHomeMenu",
+            "display": "onRowClick_FrmHomeMenu",
+            "inputparams": [{
+                "name": "rowIndex",
+                "value": "rowNumber"
+            }]
+        }]
+    }
+}

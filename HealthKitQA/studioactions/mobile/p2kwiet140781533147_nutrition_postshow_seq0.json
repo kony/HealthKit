@@ -1,0 +1,31 @@
+{
+    "p2kwiet140781533147_nutrition_postshow_seq0": {
+        "id": "p2kwiet140781533147_nutrition_postshow_seq0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "name": "eventobject",
+            "value": "eventobject"
+        }],
+        "actions": [{
+            "id": "customcode_postshow_39747140781533143",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "drawWidgets",
+            "display": "drawWidgets",
+            "inputparams": [{
+                "name": "ids",
+                "value": "nutritionObjs"
+            }, {
+                "name": "flexCont",
+                "value": "nutrition.flNut"
+            }, {
+                "name": "readOnly",
+                "value": ""
+            }]
+        }, {
+            "id": "customcode_postshow_91391407815333932",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "initNutritionAuth",
+            "display": "initNutritionAuth"
+        }]
+    }
+}

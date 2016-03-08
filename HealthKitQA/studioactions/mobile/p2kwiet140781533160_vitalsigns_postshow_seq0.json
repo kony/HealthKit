@@ -1,0 +1,31 @@
+{
+    "p2kwiet140781533160_vitalsigns_postshow_seq0": {
+        "id": "p2kwiet140781533160_vitalsigns_postshow_seq0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "name": "eventobject",
+            "value": "eventobject"
+        }],
+        "actions": [{
+            "id": "customcode_postshow_492001407815332370",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "drawWidgets",
+            "display": "drawWidgets",
+            "inputparams": [{
+                "name": "ids",
+                "value": "vitalSignsObjs"
+            }, {
+                "name": "flexCont",
+                "value": "vitalsigns.flNut"
+            }, {
+                "name": "readOnly",
+                "value": ""
+            }]
+        }, {
+            "id": "customcode_postshow_179791407815338378",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "initAuthVitalSigns",
+            "display": "initAuthVitalSigns"
+        }]
+    }
+}

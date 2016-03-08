@@ -1,0 +1,16 @@
+{
+    "p2kwiet140781533100_bmSubmit_onClick_seq0": {
+        "id": "p2kwiet140781533100_bmSubmit_onClick_seq0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "name": "eventobject",
+            "value": "eventobject"
+        }],
+        "actions": [{
+            "id": "customcode_onClick_293851407815331855",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "saveDetailsBody",
+            "display": "saveDetailsBody"
+        }]
+    }
+}

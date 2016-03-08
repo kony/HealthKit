@@ -1,0 +1,15 @@
+{
+    "p2kwiet140781533154_results_init_seq0": {
+        "id": "p2kwiet140781533154_results_init_seq0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "name": "eventobject",
+            "value": "eventobject"
+        }],
+        "actions": [{
+            "id": "expression_init_876441407815339177",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "results.btnDummyResults.opacity = 0;"
+        }]
+    }
+}

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<project name="HealthKitQA" path="/Users/platform/Downloads/KonyNativeFunctionAPI_HealthKit-master/HealthKitQA">
+    <channel type="mobile"/>
+    <channel type="tablet"/>
+    <channel type="desktop"/>
+</project>

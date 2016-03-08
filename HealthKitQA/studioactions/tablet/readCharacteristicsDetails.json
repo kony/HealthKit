@@ -1,0 +1,19 @@
+{
+    "readCharacteristicsDetails": {
+        "id": "p2kwiet140781533111_readCharacteristicsDetails_titlebarAction",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "name": "eventobject",
+            "value": "eventobject"
+        }],
+        "actions": [{
+            "id": "INVOKE_FUNCTION_readCharacteristicsDetails",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "readCharacteristicsDetails",
+            "display": "readCharacteristicsDetails",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

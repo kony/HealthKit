@@ -1,0 +1,16 @@
+{
+    "p2kwiet140781533134_button17218328913545_onClick_seq0": {
+        "id": "p2kwiet140781533134_button17218328913545_onClick_seq0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "name": "eventobject",
+            "value": "eventobject"
+        }],
+        "actions": [{
+            "id": "customcode_onClick_8501407815337236",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "readFitnessDetails",
+            "display": "readFitnessDetails"
+        }]
+    }
+}

@@ -1,0 +1,216 @@
+{
+    "DNDConfig": null,
+    "_data_": [
+        {
+            "label685080434490": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Body Measurements"
+            }
+        },
+        {
+            "label685080434490": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Fitness Identifiers"
+            }
+        },
+        {
+            "label685080434490": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Vital Signs Identifiers"
+            }
+        },
+        {
+            "label685080434490": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Results Identifiers"
+            }
+        },
+        {
+            "label685080434490": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Nutrition Identifiers"
+            }
+        },
+        {
+            "label685080434490": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Characteristics Identifiers"
+            }
+        }
+    ],
+    "_enabled_": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "4.0%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "seg2Normal",
+    "_top_": {
+        "type": "string",
+        "value": "4.0%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "92%"
+    },
+    "android": {
+        "@class": "com.kony.gen.viz.model.container.property.segment2.AndroidSegment2Property",
+        "psp": {
+            "dockSectionHeaders": false
+        },
+        "render": true,
+        "viewConfig": {
+            "coverflowConfig": {
+                "isCircular": true,
+                "projectionAngle": 60
+            }
+        },
+        "viewType": "tableview"
+    },
+    "canUpdateUI": true,
+    "containerheightreference": 1,
+    "containerweight": 100,
+    "context": {
+        "channel": "mobile",
+        "formID": "AdvancedWidgetsSegements",
+        "templateType": "segments",
+        "topLevelBox": false
+    },
+    "counter": 3,
+    "focusedindex": null,
+    "focuseditem": null,
+    "generatedtemplate": "p2kwiet140781533142",
+    "groupcells": false,
+    "hasSections": false,
+    "hiddencolumns": {},
+    "id": "segHealthMenu",
+    "ide_onRowClick": "p2kwiet140781533139_segHealthMenu_onRowClick_seq0",
+    "info": null,
+    "iphone": {
+        "@class": "com.kony.gen.viz.model.container.property.segment2.IPhoneSegment2Property",
+        "_margin_": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "margin": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "marginInPixel": false,
+        "psp": {
+            "bounces": true,
+            "editStyle": "none",
+            "enableDictionary": false,
+            "indicator": "rowselect",
+            "progressIndicatorColor": "white",
+            "searchCriteria": 1,
+            "showProgressIndicator": true
+        },
+        "render": true,
+        "viewConfig": {
+            "coverflowConfig": {}
+        },
+        "viewType": "tableview"
+    },
+    "isvisible": true,
+    "kuid": "p2kwiet140781533138",
+    "layoutalignment": 3,
+    "margininpixel": false,
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "paddinginpixel": false,
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "frmHome",
+    "pf": "frmHome",
+    "retainselection": false,
+    "rowTemplateId": "p2kwiet140781533142",
+    "rowcounter": 2,
+    "rowfocusskin": "s669f27cc3b94fd8b3bdcb55f497795a",
+    "rowskin": "s16b05f33d0a42649f9ba6eb44afdd9c",
+    "screenlevelwidget": false,
+    "scrollingevents": false,
+    "seccounter": 0,
+    "sectionheaderskin": "s3668d2ce37547c38a80edf8097b320f",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "selectionbehaviorconfig": {},
+    "separatorcolor": "64646400",
+    "separatorrequired": true,
+    "separatorthickness": 1,
+    "showscrollbars": false,
+    "spa": {
+        "@class": "com.kony.gen.viz.model.container.property.segment2.SPASegment2Property"
+    },
+    "spaan": {
+        "@class": "com.kony.gen.viz.model.container.property.segment2.SPAAndroidSegment2Property",
+        "render": true
+    },
+    "spabb": {
+        "@class": "com.kony.gen.viz.model.container.property.segment2.SPABBSegment2Property",
+        "render": false
+    },
+    "spaip": {
+        "@class": "com.kony.gen.viz.model.container.property.segment2.SPAIPhoneSegment2Property",
+        "render": true
+    },
+    "spawinphone8": {
+        "@class": "com.kony.gen.viz.model.container.property.segment2.SPAWinPhone8Segment2Property",
+        "render": true
+    },
+    "viewtype": "tableview",
+    "wType": "Segment",
+    "widgetalignment": 1,
+    "widgetdatamap": {
+        "label685080434490": "label685080434490"
+    },
+    "widgetskin": "s674f3e255d342acb369382465e08312",
+    "winphone8": {
+        "@class": "com.kony.gen.viz.model.container.property.segment2.WinPhone8Segment2Property",
+        "_margin_": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "margin": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "marginInPixel": false,
+        "psp": {
+            "enableCache": false
+        },
+        "render": true
+    },
+    "zindex": 1
+}
