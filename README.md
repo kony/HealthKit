@@ -9,4 +9,4 @@ This application will showcase Kony native function api feature in a way that us
 **Mobile**
  * iPhone
  
-**Supported Kony Visualizer Version:** 7.0
+**Supported Kony Visualizer Enterprise Version:** 7.0
