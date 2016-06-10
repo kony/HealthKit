@@ -10,7 +10,8 @@
             "id": "customcode_onClick_8501407815337236",
             "type": "INVOKE_FUNCTION",
             "sequenceKUID": "readFitnessDetails",
-            "display": "readFitnessDetails"
+            "display": "readFitnessDetails",
+            "inputparams": []
         }]
     }
 }

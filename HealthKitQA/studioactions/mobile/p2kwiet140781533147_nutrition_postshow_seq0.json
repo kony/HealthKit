@@ -25,7 +25,8 @@
             "id": "customcode_postshow_91391407815333932",
             "type": "INVOKE_FUNCTION",
             "sequenceKUID": "initNutritionAuth",
-            "display": "initNutritionAuth"
+            "display": "initNutritionAuth",
+            "inputparams": []
         }]
     }
 }

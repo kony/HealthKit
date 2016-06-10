@@ -10,7 +10,8 @@
             "id": "customcode_onClick_276401407815338673",
             "type": "INVOKE_FUNCTION",
             "sequenceKUID": "saveVitaminsDetails",
-            "display": "saveVitaminsDetails"
+            "display": "saveVitaminsDetails",
+            "inputparams": []
         }]
     }
 }

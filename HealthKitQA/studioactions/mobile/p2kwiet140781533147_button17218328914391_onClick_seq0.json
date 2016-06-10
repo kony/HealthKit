@@ -10,7 +10,8 @@
             "id": "customcode_onClick_401331407815332194",
             "type": "INVOKE_FUNCTION",
             "sequenceKUID": "readNutritionDetails",
-            "display": "readNutritionDetails"
+            "display": "readNutritionDetails",
+            "inputparams": []
         }]
     }
 }

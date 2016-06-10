@@ -25,7 +25,8 @@
             "id": "customcode_postshow_179791407815338378",
             "type": "INVOKE_FUNCTION",
             "sequenceKUID": "initAuthVitalSigns",
-            "display": "initAuthVitalSigns"
+            "display": "initAuthVitalSigns",
+            "inputparams": []
         }]
     }
 }

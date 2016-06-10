@@ -10,7 +10,8 @@
             "id": "customcode_onClick_145631407815337323",
             "type": "INVOKE_FUNCTION",
             "sequenceKUID": "saveDetailsVitalSigns",
-            "display": "saveDetailsVitalSigns"
+            "display": "saveDetailsVitalSigns",
+            "inputparams": []
         }]
     }
 }

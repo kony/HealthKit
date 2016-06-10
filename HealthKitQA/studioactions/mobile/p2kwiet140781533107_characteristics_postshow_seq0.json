@@ -10,7 +10,8 @@
             "id": "customcode_postshow_46121407815334768",
             "type": "INVOKE_FUNCTION",
             "sequenceKUID": "initAuthCharacteristics",
-            "display": "initAuthCharacteristics"
+            "display": "initAuthCharacteristics",
+            "inputparams": []
         }]
     }
 }

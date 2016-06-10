@@ -10,7 +10,8 @@
             "id": "customcode_onClick_852431407815331188",
             "type": "INVOKE_FUNCTION",
             "sequenceKUID": "saveDetailsResults",
-            "display": "saveDetailsResults"
+            "display": "saveDetailsResults",
+            "inputparams": []
         }]
     }
 }

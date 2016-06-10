@@ -10,7 +10,8 @@
             "id": "customcode_onClick_68973140781533406",
             "type": "INVOKE_FUNCTION",
             "sequenceKUID": "readVitalSignsDetails",
-            "display": "readVitalSignsDetails"
+            "display": "readVitalSignsDetails",
+            "inputparams": []
         }]
     }
 }

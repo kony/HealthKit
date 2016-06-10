@@ -25,7 +25,8 @@
             "id": "customcode_postshow_368831407815339814",
             "type": "INVOKE_FUNCTION",
             "sequenceKUID": "initAuthResults",
-            "display": "initAuthResults"
+            "display": "initAuthResults",
+            "inputparams": []
         }]
     }
 }
